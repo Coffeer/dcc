@@ -1,3 +1,2 @@
-# dcc
-Dart crash course
-- Notes about this course will be added in this document
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
