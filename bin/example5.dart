@@ -8,5 +8,5 @@ void main(List<String> args) {
 
 // Constants cannot be assigned a non-constant value,
 // so the following is an invalid operation
-  const ag3 = age;
+// const ag3 = age;
 }
